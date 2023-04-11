@@ -565,9 +565,12 @@ button:focus {
   margin-top: -40px;
 }
 
+.small_gap {
+  padding-top: 40px;
+}
+
 .vision {
   background: #f9fafc;
-  padding-top: 40px;
   margin-bottom: 30px;
 }
 
@@ -850,7 +853,7 @@ button:focus {
 =========================================================================================== */
 /* Team Area css
 ============================================================================================ */
-.team_area {
+.team_area .col-md-12{
   background: #f9fafc;
 }
 
