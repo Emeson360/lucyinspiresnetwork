@@ -468,8 +468,9 @@ button:focus {
 }
 .banner_area .banner_inner .overlay {
   background: linear-gradient(0deg, rgba(6, 13, 1, 0.6), rgba(6, 13, 1, 0.6)),
-    url(../img/banner/banner.jpg) no-repeat scroll center center;
+    url(../img/lucy_banner.jpeg) no-repeat scroll center center;
   background-size: cover;
+  background-position: center;
   position: absolute;
   left: 0;
   right: 0;
@@ -538,7 +539,7 @@ button:focus {
   }
 }
 .about_area .about_right {
-  padding: 110px 60px;
+  padding: 80px 60px;
   background: #ffffff;
   margin-top: 70px;
   margin-left: -40px;
