@@ -468,7 +468,7 @@ button:focus {
 }
 .banner_area .banner_inner .overlay {
   background: linear-gradient(0deg, rgba(6, 13, 1, 0.6), rgba(6, 13, 1, 0.6)),
-    url(../img/lucy_banner.jpeg) no-repeat scroll center center;
+    url(../img/banner/banner.jpg) no-repeat scroll center center;
   background-size: cover;
   background-position: center;
   position: absolute;
@@ -480,7 +480,7 @@ button:focus {
   z-index: -1;
   opacity: 1;
 }
-.banner_area .banner_inner .overlay {
+.banner_area .banner_inner .founder-overlay {
   background: linear-gradient(0deg, rgba(6, 13, 1, 0.6), rgba(6, 13, 1, 0.6)),
     url(../img/lucy_banner.jpeg) no-repeat scroll center center;
   background-size: cover;
