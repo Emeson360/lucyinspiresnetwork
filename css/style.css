@@ -196,6 +196,25 @@ button:focus {
   color: #3b1d8f;
   border: 1px solid #fff;
 }
+.primary_title {
+  display: block;
+  width: 50%;
+  margin: 20px auto;
+  background: #3b1d8f;
+  padding: 0px 30px;
+  color: #fff;
+  font-size: 26px;
+  font-weight: 500;
+  line-height: 48px;
+  border: 1px solid #3b1d8f;
+  border-radius: 30px;
+  outline: none !important;
+  box-shadow: none !important;
+  text-align: center;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: all 300ms linear 0s;
+}
 
 .join {
   background-color: white;
@@ -584,7 +603,7 @@ button:focus {
   padding-top: 40px;
 }
 
-.vision {
+.vision, .mission {
   background: #f9fafc;
   margin-bottom: 30px;
 }
@@ -594,13 +613,6 @@ button:focus {
 }
 
 .girls_club{
-  height: 300px;
-  overflow: hidden;
-  margin-bottom: 20px;
-}
-
-.girls_club2{
-  height: 250px;
   overflow: hidden;
   margin-bottom: 20px;
 }
@@ -610,17 +622,9 @@ button:focus {
   height: 100%;
 }
 
-.girls_club2 img {
-  width: 100%;
-  height: 100%;
-}
-
 .hadassah{
-  /* height: 300px;
-  overflow: hidden;  */
   margin-bottom: 20px;
 }
-
 
 .hadassah img {
   width: 100%;
@@ -632,7 +636,6 @@ button:focus {
   overflow: hidden; 
   margin-bottom: 20px;
 }
-
 
 .bizhangout img {
   width: 100%;
