@@ -616,8 +616,8 @@ button:focus {
 }
 
 .hadassah{
-  height: 300px;
-  overflow: hidden; 
+  /* height: 300px;
+  overflow: hidden;  */
   margin-bottom: 20px;
 }
 
